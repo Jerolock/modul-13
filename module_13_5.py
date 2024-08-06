@@ -22,7 +22,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 # import asyncio
 import logging
 
-API = 'XXX'
+API = '7404531016:AAHYQUWSSvxhtCJ_fy0XJi3Qzgddk9OxQYI'
 bot = Bot(token=API)
 dp = Dispatcher(bot, storage=MemoryStorage())
 kb = ReplyKeyboardMarkup(resize_keyboard=True)
