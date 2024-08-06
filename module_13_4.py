@@ -14,7 +14,7 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 # import asyncio
 import logging
 
-API = '7404531016:AAHYQUWSSvxhtCJ_fy0XJi3Qzgddk9OxQYI'
+API = 'XXX'
 bot = Bot(token=API)
 dp = Dispatcher(bot, storage=MemoryStorage())
 logging.basicConfig(
