@@ -11,7 +11,7 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 import asyncio
 import logging
 
-API = 'XXX'
+API = '7404531016:AAHYQUWSSvxhtCJ_fy0XJi3Qzgddk9OxQYI'
 bot = Bot(token=API)
 dp = Dispatcher(bot, storage=MemoryStorage())
 logging.basicConfig(
